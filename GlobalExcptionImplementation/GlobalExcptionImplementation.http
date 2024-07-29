@@ -1,0 +1,6 @@
+@GlobalExcptionImplementation_HostAddress = http://localhost:5048
+
+GET {{GlobalExcptionImplementation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
